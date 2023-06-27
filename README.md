@@ -28,7 +28,6 @@ Developed a dynamic dashboard featuring pivot slicers, enabling seamless filteri
 2.	Non-active members were found to churn nearly twice as much as active members.
 3.	Customers utilizing exactly two products displayed the lowest churn rate, followed by those using only one product.
 4.	Customers using three to four products experienced a churn rate exceeding 50%.
-5.	Among customers aged 42 and above, those utilizing exactly two products demonstrated the lowest churn rate compared to those using fewer or more products.
 
 ### Conclusions:
 1.	Cease promoting three to four products to each customer, as it leads to higher churn rates.
